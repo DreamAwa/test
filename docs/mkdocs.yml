@@ -1,5 +1,2 @@
 site_name: Gradual Machine Learning(GML) framework
 theme: readthedocs
-nav:
-  - Home: README.md
-  - data_structrue: data_structures.md
