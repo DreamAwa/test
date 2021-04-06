@@ -1,18 +1,6 @@
-site_name: Croyde RISC-V
+site_name: Gradual Machine Learning(GML) framework
 theme: readthedocs
 nav:
-  - Home: index.md
-  - Project Organisation: project-organisation.md
-  - Requirements: functional-requirements.md
-  - Instruction Listing: instruction-listing.md
-  - Pipeline: pipeline.md
-  - Core Complex: ccx.md
-  - Memory Interfaces: memory-interface.md
-  - Flow - Synthesis: flows-synthesis.md
-  - Flow - Unit Tests: flows-unit-tests.md
-  - Flow - riscv-formal: flows-riscv-formal.md
-  - Flow - Embench: embench.md
-  - Flow - rvkrypto: flows-rvkrypto.md
-  - Energy Efficiency : energy-efficiency.md
-  - Todo: todo.md
-  
+  - Home: README.md
+  - app: approximate_probability_estimation.md
+  - cs: construct_subgraph.md
