@@ -2,9 +2,9 @@
 class **ApproximateProbabilityEstimation**(variables, features, method)        
 Methods for Approximate Probability Estimation class  
 >Parameters:
->  `variables` -variables
->  `features`  -features
->  `method`  -The method used to calculate the approximate probability, the default value is 'relation'
+> `variables` -variables
+> `features`  -features
+> `method`  -The method used to calculate the approximate probability, the default value is 'relation'
 
 This class currently provides the following methods:  
  
@@ -52,13 +52,13 @@ This class currently provides the following methods:
     >Returns：MassFunction function  
     >Return type：function
 
-6. approximate_probability_estimation(variable_set) [[source]](../approximate_probability_estimation.py)          
+6. approximate_probability_estimation(variable_set)           
 
     >Function：Calculate the approximate probability of the selected topm hidden variables, used to select topk, suitable for ER  
     >Parameters：  
     > `variable_set` Latent variable data set
     
-7. approximate_probability_estimation_by_custom(variable_set) [[source]](../approximate_probability_estimation.py)           
+7. approximate_probability_estimation_by_custom(variable_set)            
 
     >Function：Calculate the approximate probability of the selected topm hidden variables, used to select topk, user-defined calculation rules  
     >Parameters：  
